@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 1rem;
+}
+
+.heading-table-left{
+    display: flex;
+}
+.heading-table-left button{
+   margin-left: 1rem;
+}
+.fa-customize{
+    font-size: 1.5rem;
+    margin-left: 2rem;
+    color: red;
+    cursor: pointer;
+}
+
+.fa-customize1{
+    font-size: 1.5rem;
+    margin-left: 2rem;
+    color: black;
+    cursor: pointer;
+}
